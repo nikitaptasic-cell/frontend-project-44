@@ -12,3 +12,6 @@
 [![asciicast](https://asciinema.org/a/7tkAJt990MKSnVTZ.svg)](https://asciinema.org/a/7tkAJt990MKSnVTZ) - Победа
 
 [![asciicast](https://asciinema.org/a/UJY14GhJdYtL6EEC.svg)](https://asciinema.org/a/UJY14GhJdYtL6EEC) - Поражение
+## nod-gcd
+
+[![asciicast](https://asciinema.org/a/L9aJXDyAqE0gwkcS.svg)](https://asciinema.org/a/L9aJXDyAqE0gwkcS) - Победа
