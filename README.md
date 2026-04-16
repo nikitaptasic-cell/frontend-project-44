@@ -2,3 +2,6 @@
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/nikitaptasic-cell/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/nikitaptasic-cell/frontend-project-44/actions)
+## Asciinema
+
+[![asciicast](https://asciinema.org/a/AIaCaPnplemf2V4u.svg)](https://asciinema.org/a/AIaCaPnplemf2V4u)
