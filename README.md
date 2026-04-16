@@ -7,6 +7,8 @@
 [![asciicast](https://asciinema.org/a/AIaCaPnplemf2V4u.svg)](https://asciinema.org/a/AIaCaPnplemf2V4u) - Победа
 
 [![asciicast](https://asciinema.org/a/q6MdMOr1o68mwRc2.svg)](https://asciinema.org/a/q6MdMOr1o68mwRc2) - Поражение
-## Calc
+## calc
 
 [![asciicast](https://asciinema.org/a/7tkAJt990MKSnVTZ.svg)](https://asciinema.org/a/7tkAJt990MKSnVTZ) - Победа
+
+[![asciicast](https://asciinema.org/a/UJY14GhJdYtL6EEC.svg)](https://asciinema.org/a/UJY14GhJdYtL6EEC) - Поражение
