@@ -15,3 +15,5 @@
 ## nod-gcd
 
 [![asciicast](https://asciinema.org/a/L9aJXDyAqE0gwkcS.svg)](https://asciinema.org/a/L9aJXDyAqE0gwkcS) - Победа
+
+[![asciicast](https://asciinema.org/a/3KkD3Cpk4ZgUjxMg.svg)](https://asciinema.org/a/3KkD3Cpk4ZgUjxMg) - Поражение
