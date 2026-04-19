@@ -22,3 +22,8 @@
 [![asciicast](https://asciinema.org/a/s0SUU8A5JPeVyT81.svg)](https://asciinema.org/a/s0SUU8A5JPeVyT81) - Победа
 
 [![asciicast](https://asciinema.org/a/uB9MjrGcuWkwNxxd.svg)](https://asciinema.org/a/uB9MjrGcuWkwNxxd) - Поражение
+## prime
+
+[![asciicast](https://asciinema.org/a/tk0O7XfEu3qHQ4cc.svg)](https://asciinema.org/a/tk0O7XfEu3qHQ4cc) - Победа
+
+[![asciicast](https://asciinema.org/a/Etofmas59Tq2cp9K.svg)](https://asciinema.org/a/Etofmas59Tq2cp9K) - Поражение
