@@ -1,6 +1,6 @@
 import readlineSync from 'readline-sync';
 
-function isPrime(number) {
+function isPrime (number) {
   if (number < 2) {
     return false;
   }
@@ -12,7 +12,7 @@ function isPrime(number) {
   return true;
 }
 
-function runPrimeGame() {
+function runPrimeGame () {
   console.log('Welcome to the Brain Games!');
   
   const name = readlineSync.question('May I have your name? ');

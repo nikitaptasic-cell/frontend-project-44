@@ -20,7 +20,7 @@ const generateProgression = () => {
   
   return {
     question: progression.join(' '),
-    correctAnswer
+    correctAnswer,
   };
 };
 
