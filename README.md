@@ -17,3 +17,8 @@
 [![asciicast](https://asciinema.org/a/L9aJXDyAqE0gwkcS.svg)](https://asciinema.org/a/L9aJXDyAqE0gwkcS) - Победа
 
 [![asciicast](https://asciinema.org/a/3KkD3Cpk4ZgUjxMg.svg)](https://asciinema.org/a/3KkD3Cpk4ZgUjxMg) - Поражение
+## progression
+
+[![asciicast](https://asciinema.org/a/s0SUU8A5JPeVyT81.svg)](https://asciinema.org/a/s0SUU8A5JPeVyT81) - Победа
+
+[![asciicast](https://asciinema.org/a/uB9MjrGcuWkwNxxd.svg)](https://asciinema.org/a/uB9MjrGcuWkwNxxd) - Поражение
